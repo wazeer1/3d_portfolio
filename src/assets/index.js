@@ -33,6 +33,7 @@ import SpotifyClone from "./spotify-clone.png"
 import ChitCharp from "./chitcharp.png"
 import LearnTech from "./learntech.png"
 import SteypLogo from "./steyp-logo.svg"
+import WoodencloudsLogo from './download.jpeg'
 
 export {
   logo,
@@ -66,5 +67,6 @@ export {
   SpotifyClone,
   ChitCharp,
   LearnTech,
-  SteypLogo
+  SteypLogo,
+  WoodencloudsLogo
 };

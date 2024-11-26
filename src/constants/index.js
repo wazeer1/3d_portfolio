@@ -26,7 +26,8 @@ import {
     ChitCharp,
     LearnTech,
     SpotifyClone,
-    SteypLogo
+    SteypLogo,
+    WoodencloudsLogo
   } from "../assets";
   
   export const navLinks = [
@@ -125,6 +126,22 @@ import {
       icon: SteypLogo,
       iconBg: "#383E56",
       date: "October 2021 - present",
+      points: [
+        "Develop and deploy user interfaces using React.js for customerfacing web apps, resulting in a 30% increase in user engagement",
+        "Provide technical assistance to team members, contributing to a 20% improvement in project delivery time",
+        "Define product requirements and create high-level architectural specifications, ensuring alignment with business goals and user needs",
+        "Profile, troubleshoot, and fix bugs to improve system performance, resulting in a 15% reduction in system downtime",
+        "Develop new features for the product and ensure comprehensive list of requirements matches existing functionalities, contributing to a 25% increase in product adoption",
+        "Determine areas for improvement by monitoring system performance, resulting in a 10% improvement in system efficiency",
+        "Work on backend system, ensuring seamless integration with frontend and optimal performance"
+      ],
+    },
+    {
+      title: "Fullstack Developer",
+      company_name: "Woodenclouds",
+      icon: WoodencloudsLogo,
+      iconBg: "#383E56",
+      date: "May 2023 - August 30",
       points: [
         "Develop and deploy user interfaces using React.js for customerfacing web apps, resulting in a 30% increase in user engagement",
         "Provide technical assistance to team members, contributing to a 20% improvement in project delivery time",
