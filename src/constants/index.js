@@ -27,7 +27,8 @@ import {
     LearnTech,
     SpotifyClone,
     SteypLogo,
-    WoodencloudsLogo
+    WoodencloudsLogo,
+    ULTSLogo
   } from "../assets";
   
   export const navLinks = [
@@ -152,7 +153,22 @@ import {
         "Work on backend system, ensuring seamless integration with frontend and optimal performance"
       ],
     },
-    
+    {
+      title: "Frontend Developer",
+      company_name: "UL-technologies",
+      icon: ULTSLogo,
+      iconBg: "#383E51",
+      date: "sept 2023 - present",
+      points: [
+        "Develop and deploy user interfaces using React.js for customerfacing web apps, resulting in a 30% increase in user engagement",
+        "Provide technical assistance to team members, contributing to a 20% improvement in project delivery time",
+        "Define product requirements and create high-level architectural specifications, ensuring alignment with business goals and user needs",
+        "Profile, troubleshoot, and fix bugs to improve system performance, resulting in a 15% reduction in system downtime",
+        "Develop new features for the product and ensure comprehensive list of requirements matches existing functionalities, contributing to a 25% increase in product adoption",
+        "Determine areas for improvement by monitoring system performance, resulting in a 10% improvement in system efficiency",
+        "Work on backend system, ensuring seamless integration with frontend and optimal performance"
+      ],
+    },
   ];
   
   const testimonials = [

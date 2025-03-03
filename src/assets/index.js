@@ -34,6 +34,7 @@ import ChitCharp from "./chitcharp.png"
 import LearnTech from "./learntech.png"
 import SteypLogo from "./steyp-logo.svg"
 import WoodencloudsLogo from './tech/download.jpeg'
+import ULTSLogo from './ults-logo.jpg'
 
 export {
   logo,
@@ -68,5 +69,6 @@ export {
   ChitCharp,
   LearnTech,
   SteypLogo,
-  WoodencloudsLogo
+  WoodencloudsLogo,
+  ULTSLogo
 };
